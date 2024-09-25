@@ -1,4 +1,4 @@
-# Adin-s-Utility-Menu
+# Adins Utility Menu
 A simple utility menu meant for school computers
 # The Menu Includes:
 
