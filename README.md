@@ -20,3 +20,4 @@ A simple utility menu meant for school computers
 
 
    # Updates will come out every once in awhile :)
+   #Note! this doesnt work for chromebooks! only windows pcs.
